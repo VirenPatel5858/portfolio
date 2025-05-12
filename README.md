@@ -1,2 +1,2 @@
-# portfolio
-Portfolio website using tailwind
+# Portfolio website
+Portfolio website using HTML, Taiwind CSS and Javascript.
